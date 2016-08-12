@@ -8,4 +8,5 @@ This contains release versions of my releases for Rimweorld that can be download
 * Initial Setup
 
 2016-08-08
-* Renaming Files and Updating Safe Traps
+* Rearanging Files
+* ED-SafeTraps 01.00.01

@@ -18,3 +18,5 @@ This contains release versions of my releases for Rimweorld that can be download
 
 2016-09-05
 * Adding Older Files
+* ED-Shields-CR 02.00.00 (A14)
+* 

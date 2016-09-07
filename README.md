@@ -16,7 +16,11 @@ This contains release versions of my releases for Rimweorld that can be download
 * ED-PersonalNanoShields_02.00.00
 * ED-PersonalAnimalShields_02.00.00
 
-2016-09-05
+2016-09-05 
 * Adding Older Files
 * ED-Shields-CR 02.00.00 (A14)
 * ED-ShieldsBasic_02.00.00
+
+2016-09-07 
+* ED-CheatReactor_02.00.00
+* ED-Embrasures_03.00.00

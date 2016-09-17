@@ -24,3 +24,6 @@ This contains release versions of my releases for Rimweorld that can be download
 2016-09-07 
 * ED-CheatReactor_02.00.00
 * ED-Embrasures_03.00.00
+
+2016-09-17
+* ED-ShieldsBasic_02.00.01

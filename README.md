@@ -37,3 +37,11 @@ This contains release versions of my releases for Rimweorld that can be download
 
 2017-01-05
 * ED-ShieldsBasic_03.00.00
+
+2017-01-21
+* ED-CheatReactor_03.00.01
+* ED-Embrasures_04.00.01
+* ED-LaserDrill_04.00.01
+* ED-ReverseCycleCooler_04.00.00
+* ED-ShieldsBasic_04.00.00
+* ED-Shields-CR_03.00.00

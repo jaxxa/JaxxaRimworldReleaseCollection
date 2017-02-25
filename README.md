@@ -45,3 +45,9 @@ This contains release versions of my releases for Rimweorld that can be download
 * ED-ReverseCycleCooler_04.00.00
 * ED-ShieldsBasic_04.00.00
 * ED-Shields-CR_03.00.00
+
+
+2017-02-25
+* ED-OmniGel_03.00.00
+* ED-ReinforcedStuff_03.00.00
+* ED-ShieldsBasic_03.00.02

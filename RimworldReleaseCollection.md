@@ -46,8 +46,13 @@ This contains release versions of my releases for Rimweorld that can be download
 * ED-ShieldsBasic_04.00.00
 * ED-Shields-CR_03.00.00
 
-
 2017-02-25
 * ED-OmniGel_03.00.00
 * ED-ReinforcedStuff_03.00.00
 * ED-ShieldsBasic_03.00.02
+
+2017-03-05
+* ED-Embrasures_04.00.02
+* ED-TurretControl_02.00.00
+* ED-SafeTraps_02.00.00
+* ED-Plant24H_04.00.00

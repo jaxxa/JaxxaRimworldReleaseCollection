@@ -56,3 +56,8 @@ This contains release versions of my releases for Rimweorld that can be download
 * ED-TurretControl_02.00.00
 * ED-SafeTraps_02.00.00
 * ED-Plant24H_04.00.00
+
+2017-03-20
+* ED-TurretControl_02.00.01
+* ED-SafeTraps_02.00.01
+* ED-Plant24H_04.00.01

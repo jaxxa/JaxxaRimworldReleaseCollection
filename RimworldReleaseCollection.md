@@ -66,3 +66,6 @@ This contains release versions of my releases for Rimweorld that can be download
 * ED-Plant24H_04.00.02
 * ED-ClosableVent_03.00.00
 * ED-PersonalNanoShields_04.00.00
+
+2017-04-19
+* ED-PersonalAnimalShields_04.00.00

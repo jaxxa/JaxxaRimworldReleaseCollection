@@ -69,3 +69,6 @@ This contains release versions of my releases for Rimweorld that can be download
 
 2017-04-19
 * ED-PersonalAnimalShields_04.00.00
+
+2017-04-29
+* ED-PhotoDay_01.00.00

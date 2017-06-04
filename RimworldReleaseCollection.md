@@ -72,3 +72,13 @@ This contains release versions of my releases for Rimweorld that can be download
 
 2017-04-29
 * ED-PhotoDay_01.00.00
+
+2017-06-04
+* ED-CheatReactor_0.17.0
+* ED-Embrasures_0.17.0
+* ED-LaserDrill_0.17.0
+* ED-OmniGel_0.17.0
+* ED-ReinforcedStuff_0.17.0
+* ED-ReverseCycleCooler_0.17.0
+* ED-ShieldsBasic
+

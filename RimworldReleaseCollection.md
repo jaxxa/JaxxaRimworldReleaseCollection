@@ -84,4 +84,4 @@ This contains release versions of my releases for Rimweorld that can be download
 
 2017-07-01
 * ED-Embrasures_0.17.1
-
+* ED-Embrasures_0.17.2

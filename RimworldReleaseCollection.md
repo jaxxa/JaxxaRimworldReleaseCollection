@@ -82,3 +82,6 @@ This contains release versions of my releases for Rimweorld that can be download
 * ED-ReverseCycleCooler_0.17.0
 * ED-ShieldsBasic
 
+2017-07-01
+* ED-Embrasures_0.17.1
+

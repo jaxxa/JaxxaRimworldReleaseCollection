@@ -4,6 +4,9 @@ This contains release versions of my releases for Rimweorld that can be download
 
 # ChangeLog:
 
+2017-11-26
+* ED-TurretControl_0.18.0.0
+
 2017-11-25
 * ED-CheatReactor_0.18.0.0
 * ED-Embrasures_0.18.0.0

@@ -4,7 +4,9 @@ This contains release versions of my releases for Rimweorld that can be download
 
 # ChangeLog:
 
-2017-11-26
+2017-12-04
+* ED-ShieldsBasic_0.18.0.0
+* ED-SafeTraps_0.18.0.0
 * ED-TurretControl_0.18.0.0
 
 2017-11-25

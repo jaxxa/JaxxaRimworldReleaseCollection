@@ -1,8 +1,14 @@
 # JaxxaRimworldReleaseCollection
 
-This contains release versions of my releases for Rimweorld that can be downloaded in a single package.
+This contains release versions of my releases for Rimworld that can be downloaded in a single package.
 
 # ChangeLog:
+
+2018-01-07
+* ED-OmniGel_0.18.0.0
+
+2018-01-05
+* ED-EnhancedOptions_0.18.0.1
 
 2017-12-24
 * ED-EnhancedOptions_0.18.0.0

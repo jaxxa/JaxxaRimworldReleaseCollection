@@ -4,6 +4,9 @@ This contains release versions of my releases for Rimworld that can be downloade
 
 # ChangeLog:
 
+2018-03-04
+* ED-EnhancedOptions_0.18.0.6
+
 2018-02-10
 * ED-EnhancedOptions_0.18.0.5
 

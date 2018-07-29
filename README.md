@@ -1,6 +1,4 @@
-# JaxxaRimworldReleaseCollection
-
-This contains release versions of my releases for Rimworld that can be downloaded in a single package.
+# Jaxxa's Rimworld Mod Collection
 
 # Mods
 

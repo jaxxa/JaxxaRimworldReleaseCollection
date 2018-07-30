@@ -7,6 +7,7 @@ This contains release versions of my releases for Rimworld that can be downloade
 2018-07-30
  * ED-Excalibur_1.0.0.2
  * ED-Excalibur_1.0.0.3
+ * ED-Excalibur_1.0.0.4
 
 2018-07-29
  * ED-EnhancedOptions_1.0.0.2

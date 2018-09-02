@@ -4,6 +4,11 @@ This contains release versions of my releases for Rimworld that can be downloade
 
 # ChangeLog:
 
+2018-09-02
+ * ED-Embrasures_0.19.0.2
+ * ED-CheatReactor_0.19.0.0
+ * ED-EnhancedOptions_0.19.0.4
+
 2018-08-26
  * ED-Excalibur_0.19.0.5
  * ED-EnhancedOptions_0.19.0.3

@@ -4,7 +4,10 @@ This contains release versions of my releases for Rimworld that can be downloade
 
 # ChangeLog:
 
-2018-06-14
+2018-09-18
+ * ED-Excalibur_0.19.0.7
+
+2018-09-14
  * ED-Embrasures_0.19.0.3
  * ED-ShieldsBasic_0.19.0.1
 

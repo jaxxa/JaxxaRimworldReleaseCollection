@@ -6,8 +6,8 @@
 
 | Mod                   | Versions	| Forum Link                                        | Steam Link                                                        | GitHub Link                                						|
 | --------------------- | --------- | ------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| ED-Prometheus (WIP) 	| 1.0		| https://ludeon.com/forums/index.php?topic=42406 	|																	|																	|
-| ED-Embrasures 		| A13 - B19	| https://ludeon.com/forums/index.php?topic=42179 	| https://steamcommunity.com/sharedfiles/filedetails/?id=722085442  | https://github.com/jaxxa/ED-Embrasures/blob/master/README.md		|
+| ED-Prometheus (WIP) 	| 1.0		| https://ludeon.com/forums/index.php?topic=42406 	|																	| https://github.com/jaxxa/ED-Prometheus/blob/master/README.md		|  
+| ED-Embrasures 		| A13 - 1.0	| https://ludeon.com/forums/index.php?topic=42179 	| https://steamcommunity.com/sharedfiles/filedetails/?id=722085442  | https://github.com/jaxxa/ED-Embrasures/blob/master/README.md		|
 | ED-EnhancedOptions 	| B17 - B19	| https://ludeon.com/forums/index.php?topic=42527 	| https://steamcommunity.com/sharedfiles/filedetails/?id=1241694757 | https://github.com/jaxxa/ED-EnhancedOptions/blob/master/README.md	|
 | ED-Shields	 		| A13 - B19	|													| https://steamcommunity.com/sharedfiles/filedetails/?id=726884610  |																	|
 | ED-Laser Drill 		| A13 - B19	|													| https://steamcommunity.com/sharedfiles/filedetails/?id=722086956  |																	|

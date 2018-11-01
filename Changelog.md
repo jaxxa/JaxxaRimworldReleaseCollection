@@ -4,6 +4,12 @@ This contains release versions of my releases for Rimworld that can be downloade
 
 # ChangeLog:
 
+2018-11-01
+ * ED-CheatReactor_1.0.0.0
+ * ED-LaserDrill_1.0.0.0
+ * ED-Prometheus_1.0.0.0
+ * ED-ReverseCycleCooler_1.0.0.0
+
 2018-10-19
  * ED-EnhancedOptions_1.0.0.0
 

@@ -9,7 +9,7 @@
 | ED-Prometheus		 	| 1.0		| https://ludeon.com/forums/index.php?topic=46623.0	| https://steamcommunity.com/sharedfiles/filedetails/?id=1553437514	| https://github.com/jaxxa/ED-Prometheus/blob/master/README.md		|  
 | ED-Embrasures 		| A13 - 1.0	| https://ludeon.com/forums/index.php?topic=42179 	| https://steamcommunity.com/sharedfiles/filedetails/?id=722085442  | https://github.com/jaxxa/ED-Embrasures/blob/master/README.md		|
 | ED-EnhancedOptions 	| B17 - 1.0	| https://ludeon.com/forums/index.php?topic=42527 	| https://steamcommunity.com/sharedfiles/filedetails/?id=1241694757 | https://github.com/jaxxa/ED-EnhancedOptions/blob/master/README.md	|
-| ED-Shields	 		| A13 - B19	|													| https://steamcommunity.com/sharedfiles/filedetails/?id=726884610  | https://github.com/jaxxa/ED-Shields								|
+| ED-ShieldsBasic 		| A13 - 1.0	|													| https://steamcommunity.com/sharedfiles/filedetails/?id=726884610  | https://github.com/jaxxa/ED-Shields								|
 | ED-Laser Drill 		| A13 - 1.0	|													| https://steamcommunity.com/sharedfiles/filedetails/?id=722086956  | https://github.com/jaxxa/ED-LaserDrill							|
 | ED-CheatReactor		| 1.0		|													| https://steamcommunity.com/sharedfiles/filedetails/?id=710101929	| https://github.com/jaxxa/ED-CheatReactor							|
 | ED-ReverseCycleCooler	| 1.0		|													| https://steamcommunity.com/sharedfiles/filedetails/?id=722092523	| https://github.com/jaxxa/ED-ReverseCycleCooler					|

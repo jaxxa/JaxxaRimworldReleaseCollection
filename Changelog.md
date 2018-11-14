@@ -4,6 +4,9 @@ This contains release versions of my releases for Rimworld that can be downloade
 
 # ChangeLog:
 
+2018-11-15
+ * ED-Prometheus_1.0.0.1
+
 2018-11-02
  * ED-ShieldsBasic_1.0.0.0
 

@@ -4,6 +4,9 @@ This contains release versions of my releases for Rimworld that can be downloade
 
 # ChangeLog:
 
+2020-01-03
+ * ED-ReverseCycleCooler_1.0.0.1
+
 2019-01-20
  * ED-Prometheus_1.0.0.3
 

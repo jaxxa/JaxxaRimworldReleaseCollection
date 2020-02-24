@@ -4,6 +4,11 @@ This contains release versions of my releases for Rimworld that can be downloade
 
 # ChangeLog:
 
+2020-02-24
+ * ED-CheatReactor_2.0.0.0
+ * ED-Embrasures_2.0.0.0
+ * ED-EnhancedOptions_2.0.0.0
+
 2020-01-03
  * ED-ReverseCycleCooler_1.0.0.1
  * ED-EnhancedOptions_1.0.0.1

@@ -4,6 +4,10 @@ This contains release versions of my releases for Rimworld that can be downloade
 
 # ChangeLog:
 
+2020-03-01
+ * ED-Core_2.0.0.0
+ * ED-LaserDrill_2.0.0.0
+
 2020-02-24
  * ED-CheatReactor_2.0.0.0
  * ED-Embrasures_2.0.0.0

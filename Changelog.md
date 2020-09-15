@@ -4,6 +4,12 @@ This contains release versions of my releases for Rimworld that can be downloade
 
 # ChangeLog:
 
+2020-09-16
+ * ED-CheatReactor_2.1.0.0
+ * ED-Core_2.1.0.0
+ * ED-LaserDrill_2.1.0.0
+ * ED-Shields_2.1.0.0
+
 2020-04-14
  * ED-OmniGel_2.0.0.0
  * ED-ReverseCycleCooler_2.0.0.0

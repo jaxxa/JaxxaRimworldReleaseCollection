@@ -4,6 +4,15 @@ This contains release versions of my releases for Rimworld that can be downloade
 
 # ChangeLog:
 
+2026-10-29
+ * ED-CheatReactor_3.1.0
+
+2025-12-18
+ * ED-CheatReactor_3.0.0
+
+2021-01-01
+ * ED-CheatReactor_2.2.0
+
 2020-09-16
  * ED-CheatReactor_2.1.0.0
  * ED-Core_2.1.0.0
